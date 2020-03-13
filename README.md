@@ -17,8 +17,8 @@ My intention in creating this app was understating how the widgets work in Flutt
 
 ## Screenshots
 
-    ![First Page](images/first_page.jpeg)
-    ![Second Page](images/second_page.jpeg)
+![First Page](images/first_page.jpg)
+![Second Page](images/second_page.jpg)
     
 
 ## Files
